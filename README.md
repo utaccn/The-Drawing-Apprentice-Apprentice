@@ -1,12 +1,15 @@
 # The-Drawing-Apprentice-Apprentice
+***
 Implementation of our version of Davis's Drawing Apprentice (Davis, N. Drawing apprentice: An enactive co-creative agent for artistic collaboration.2015)
 
 This version uses an evolutionary algorithm instead of a Reinforcement Learning one.
 
-# More information about the project
+## More information about the project
+***
 <https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:94f32264-95ee-4933-845d-bbdb40ac5905>
 
-# Basic explanation
+## Basic explanation
+***
 The only requirements to run this code is un up to date version of TouchDesigner. 
 
 Press F1 when the file opens to start the Performance Mode
